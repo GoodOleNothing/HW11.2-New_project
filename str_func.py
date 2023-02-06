@@ -4,3 +4,10 @@ def str_f():
 
 
 str_f()
+
+def str_t():
+    user = input()
+    return print(f'{user.title()}')
+"""Делает заглавные буквы"""
+
+str_t()
