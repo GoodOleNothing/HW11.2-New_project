@@ -9,6 +9,6 @@ str_f()
 def str_t():
     user = input()
     return print(f'{user.title()}')
-"""Делает заглавные буквы"""
+"""МЕНЯЮ НЕПРАВИЛЬНЫЙ ДОКСТРИНГ"""
 
 str_t()
