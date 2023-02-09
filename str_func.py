@@ -4,7 +4,7 @@
 def str_f():
     user = input()
     return print(f'{user.upper()}')
-"""МОЁ ПРАВИЛЬНОЕ ОПИСАНИЕ ФУНКЦИИ"""
+"""1"""
 
 
 str_f()
