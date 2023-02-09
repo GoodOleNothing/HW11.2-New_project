@@ -4,7 +4,7 @@
 def str_f():
     user = input()
     return print(f'{user.upper()}')
-"""1"""
+"""122"""
 
 
 str_f()
