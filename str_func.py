@@ -4,7 +4,7 @@
 def str_f():
     user = input()
     return print(f'{user.upper()}')
-"""2222222"""
+"""МОЙ ПРАВИЛЬНЫЙ ДОГСТРИНГ"""
 
 
 str_f()
